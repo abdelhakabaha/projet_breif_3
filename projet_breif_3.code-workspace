@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "projet_breif_3",
+			"path": "."
+		},
+		{
+			"name": "IMAGES",
+			"path": "../catalogue/IMAGES"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projet_breif_3"
+	}
+}
