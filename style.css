@@ -97,7 +97,13 @@ body{
     height: 5%;
     border: 1px solid;
     background-color: rgb(238, 240, 243);
-
+}
+.btn2 label{
+    margin-left: 4%;
+}
+.btn2{
+    margin-left: 27%;
+    margin-top: 5%;
 }
 .bt3{
     position: absolute;
@@ -183,13 +189,19 @@ footer{
 }
 .tit_sur_img img{
     width: 100%;
+    
 
 }
 
 .tit_sur_img h2 {
     color: rgb(255, 0, 0);
+    margin-top: 13%;
+    font-size: 30px;
 
 } 
+.tit_sur_img p{
+    width: 45%;
+}
 .photo{
     position: relative;
 }
@@ -222,7 +234,33 @@ footer{
     background-color: rgb(171, 126, 36);
     width: 50%;
     margin: auto;
-    height: 99px;
+    height: 54px;
     justify-content: center;
+    margin-bottom: 2%;
+  
     
+}
+.IMG5{
+    background-color: #000;
+}
+.img_3 img{
+width: 360px;
+height: 365px;
+}
+.réponse{
+    display: none;
+    
+    background-color: rgb(146, 155, 193);
+    border: 1px solid #914747;
+    align-items: center;
+     /* gap: 30px; */
+     justify-content: space-around; 
+     width: 50%;
+     align-self: center;
+     /* margin: 1%; */
+     height: 56px;
+     margin: 0px;
+    margin-bottom: 2%;
+
+     
 }
